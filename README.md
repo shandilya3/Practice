@@ -1,9 +1,3 @@
-<p align="center"> 
-<img height="100" src="https://www.pcr-online.biz/wp-content/uploads/faang-own-logo-660x330.jpg">
-</p>
-
-
-### [DataStructures & Algorithm Problems](https://github.com/neerazz/FAANG/tree/master/Algorithms)
 
 >   #### Top Questions by Problem category
 >   - [Array, Linked List, Stack, Heap, Tree, Queue](https://github.com/neerazz/FAANG/blob/master/Algorithms/Top_LeetCode_Questions_By_Topic.md#datastructures--algorithm-problems)
