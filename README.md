@@ -2,11 +2,6 @@
 <img height="100" src="https://www.pcr-online.biz/wp-content/uploads/faang-own-logo-660x330.jpg">
 </p>
 
-# Job Preparation
- The repository contains solutions to various coding interview problems extracted from websites like [Leetcode](https://leetcode.com/neerazz90/), [Hackerrank](https://www.hackerrank.com/b_neerajkumarsi1), [Hackearth](https://www.hackerearth.com/@neerajkumarsingh), [Pramp](https://www.pramp.com/dashboard#/), AlgoExpert & [EPI](https://github.com/neerazz/FAANG/blob/master/Algorithms/Resources/Elements%20of%20Programming%20Interviews%20in%20Java.pdf). I've tried to provide the detailed solution and the intution through comments. 
- 
- These questions are classical problems that are most frequently asked by the tech giants in technical interviews and are not related to hard core competitive coding.
- `All the code provided inside the repository is purely original and completely my own.`
 
 ### [DataStructures & Algorithm Problems](https://github.com/neerazz/FAANG/tree/master/Algorithms)
 
