@@ -1,3 +1,4 @@
+[COPIED FROM INTERNET] NOT MY THOUGHTS
 Slow is Smooth, Smooth is Fast
 The "slow is smooth, smooth is fast" concept likely has its origins in the Military. Within that context, moving fast (or rushing it) is reckless and can potentially be fatal. However, if you move slowly, carefully and deliberately, you're actually moving as fast as you can without needlessly increasing the risk on your life.
 
